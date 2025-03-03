@@ -1,0 +1,3 @@
+[submodule "am_surrogating"]
+   path = am_surrogating
+   url = https://bitbucket.org/your-user/am_surrogating.git
